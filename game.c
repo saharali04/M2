@@ -1,7 +1,7 @@
 #include "game.h"
 #include "myLib.h"
 #include <stdlib.h>
-
+//test
 // keeps track if player has lost
 int hasLost;
 
